@@ -80,7 +80,7 @@ curl http://<Load_Balancer_Public_IP>
 
 ### **Screenshots**
 
-1. **Architecture Diagram**: ![image](https://github.com/user-attachments/assets/c6e0dc66-6a28-4373-a62b-9acd41edc6f9)]
+1. **Architecture Diagram**: ![image](https://github.com/user-attachments/assets/c6e0dc66-6a28-4373-a62b-9acd41edc6f9)
 )
 .
 2. **VMSS Overview**: ![image](https://github.com/user-attachments/assets/0da9f411-1e49-4469-bc18-2d891d90b980)

@@ -22,7 +22,7 @@ This repository showcases various Azure resources I can create and manage. Some 
 ---
 
 ## 📁 | Resource                          | Description                                                                 |
-|------------------------------------|-----------------------------------------------------------------------------|
+
 | Virtual Machine Scale Set (VMSS)   | A set of auto-scalable VMs with integrated load balancing and health probes |
 | Load Balancer                      | Public LB with backend pool connected to VMSS instances for traffic routing |
 | Nginx Web Server                   | Installed on VMSS instances to serve content and verify functionality       |
